@@ -47,7 +47,6 @@ class Main {
 
         ArrayList<Positions> map = new ArrayList<>();
 
-        map.addAll(new Positions(r, r));
 
 
 
