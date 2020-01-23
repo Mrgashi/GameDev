@@ -32,7 +32,6 @@ class Main {
         KeyStroke keyStroke;
         final char player = 'X';
 
-
         //lage sleazer (
         Positions positionSleazer1 = new Positions(70,6);
         Positions positionSleazer2 = new Positions(4,8);
